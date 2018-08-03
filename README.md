@@ -1,3 +1,3 @@
 # hello-world
-The beginning of the end
-A gentleman working to become a scholar
+The beginning of the end...
+a gentleman working to become a scholar
